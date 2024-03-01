@@ -9,3 +9,4 @@ C:\Users\Niko\Carpeta\s0p\prac3\src\Application\obj\Debug\net8.0\Application.dll
 C:\Users\Niko\Carpeta\s0p\prac3\src\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\Niko\Carpeta\s0p\prac3\src\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\Niko\Carpeta\s0p\prac3\src\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\Niko\Carpeta\s0p\prac3\src\Application\obj\Debug\net8.0\Application.sourcelink.json

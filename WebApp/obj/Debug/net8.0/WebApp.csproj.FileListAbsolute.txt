@@ -29,3 +29,4 @@ C:\Users\Niko\Carpeta\s0p\prac3\src\WebApp\obj\Debug\net8.0\refint\WebApp.dll
 C:\Users\Niko\Carpeta\s0p\prac3\src\WebApp\obj\Debug\net8.0\WebApp.pdb
 C:\Users\Niko\Carpeta\s0p\prac3\src\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
 C:\Users\Niko\Carpeta\s0p\prac3\src\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\Users\Niko\Carpeta\s0p\prac3\src\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json

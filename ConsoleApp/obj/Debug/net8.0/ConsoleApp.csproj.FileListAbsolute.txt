@@ -16,3 +16,4 @@ C:\Users\Niko\Carpeta\s0p\prac3\src\ConsoleApp\obj\Debug\net8.0\refint\ConsoleAp
 C:\Users\Niko\Carpeta\s0p\prac3\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 C:\Users\Niko\Carpeta\s0p\prac3\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\Niko\Carpeta\s0p\prac3\src\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\Niko\Carpeta\s0p\prac3\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
